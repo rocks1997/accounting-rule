@@ -1,0 +1,9 @@
+[#menu: gateway of tally]
+
+item : Help Me Bijay : Menu : Bijay Online Help
+
+[menu: Bijay Online Help]
+
+item : Modern Rule Of Accounting : Browse url : "https://raw.githubusercontent.com/rocks1997/accounting-rule/main/moden%20rule%20of%20accounting.jpg"
+item : Account Grouping : Browse url : "https://raw.githubusercontent.com/rocks1997/accounting-rule/main/account%20group.jpg"
+item : Download some Tally ShortCuts : Browse url :"https://github.com/rocks1997/accounting-rule/raw/main/Tally%7Bshutcuts%7D.pdf"
